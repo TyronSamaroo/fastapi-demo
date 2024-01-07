@@ -18,14 +18,17 @@ To run this project, you need the following installed:
 Follow these steps to set up the project:
 
 1. Clone this repository.
+    ```sh
+    git clone https://github.com/TyronSamaroo/fastapi-demo.git
+    ```
 2. Activate the virtual environment:
 
     ```sh
     pipenv shell
     ```
 3. Inside the project directory, install the dependencies using Pipenv:
-    ```
-    sh pipenv install
+    ```sh 
+    pipenv install
     ```
 
 
